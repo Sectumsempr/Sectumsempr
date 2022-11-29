@@ -1,8 +1,7 @@
 - 👋 Hi, I’m **Dmitrieva Irina**
 - 👀 I’m interested in **python develop**
-- 💞️ I am actively looking for a job
 - 📫 How to reach me - dmitrieva.irinamail@gmail.com
-- 
+
 > #### A little bit about me
 >I am a python3.5+ developer. I have a general practical experience in application development and support on The Pyramid Web Framework for more than a year. I am engaged in the development and support of REST API (web backend), database architecture using PostgresSQL DBMS, a little - writing unittests, support of the Apache web service. As well as maintaining code in gitlab and tasks in Jira, parsing xml, ods, odt files, and vice versa, templating in jinja2, and writing documentation a little. As an IDE, Pycharm is convenient, for postgres - pgAdmin in combination with manual additions of tables, databases, records, schemas, writing functions, views, triggers, sequences, etc.
 >
